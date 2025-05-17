@@ -1,0 +1,3 @@
+123456,Axel Flores Jaen,25,Hombre,Privada Jacarandas,2231885640,Supervisor,Sistemas,40,350.0
+567890,Catalina Marquez,32,Mujer,Privada Los Duraznos #67,(356) 677 2612,Secretaria,Presidencia,45,350.0
+564574,Nataly Morales Morales,20,Mujer,Privada Allende #218,(233) 464 6546,Jefa,Recursos Humanos,40,350.0

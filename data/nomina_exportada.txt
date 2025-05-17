@@ -1,0 +1,2 @@
+ID: 343213 | Nombre: Agustin Martinez | Puesto: Desarrollador | Sueldo: $60000.00
+ID: 123456 | Nombre: Axel Flores | Puesto: Supervisor | Sueldo: $14000.00
