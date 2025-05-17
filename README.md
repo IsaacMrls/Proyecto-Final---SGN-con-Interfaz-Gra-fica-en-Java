@@ -61,8 +61,10 @@ ProyectoJava/
 
 ## Autores
 
-- Luis Alfredo Durán (Practicante)
-- Proyecto académico con fines de práctica de estructuras de datos
+-Isaac Morales Morales
+-Alan Daniel Perez Tufiño
+-Julien Sampaio Rodriguez
+-Diego Alfonso Rodriguez Tenorio
 
 ## Licencia
 
